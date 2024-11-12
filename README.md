@@ -4,7 +4,9 @@ Welcome to my GitHub profile! I'm a passionate computer science student.
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiwon-lee-7614362ab)
+<a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ---
 
@@ -32,15 +34,6 @@ Welcome to my GitHub profile! I'm a passionate computer science student.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0D47A1?style=flat&logo=Matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-880ED4?style=flat&logo=plotly&logoColor=white)
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiwiKiwi19&show_icons=true&theme=dark" alt="GitHub Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiwiKiwi19&layout=compact&theme=dark" alt="Top Languages" height="160px" />
-</div>
 
 ---
 
