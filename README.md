@@ -49,5 +49,5 @@ Welcome to my GitHub profile! I'm a passionate computer science student.
 
 ---
 
-Thank you for visiting! Feel free to connect and collaborate on projects.
+Thank you for visiting! Feel free to connect with me.
 
