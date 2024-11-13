@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate computer science student.
 ---
 
 ## 📫 Connect with Me
-<a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
+<a href="https://www.linkedin.com/in/jiwon-lee-7614362ab" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
