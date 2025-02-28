@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a passionate computer science student.
 ---
 
 ## 🌱 Fun Facts
-- I'm a huge Los Angeles Dodgers fan and I'm still celebrating their incredible win this season! ⚾🏆💙
+- I'm a huge Los Angeles Dodgers fan! ⚾🏆💙
 
 ---
 
