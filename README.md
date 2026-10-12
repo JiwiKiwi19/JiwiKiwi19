@@ -2,7 +2,7 @@
 
 <h1>Jiwon Daniel Lee</h1>
 
-<p><b>Computer Science · Western University · '27</b></p>
+<p><b>Computer Science · Western University · '28</b></p>
 
 <p>I build data systems and machine-learning models — often about baseball.</p>
 
