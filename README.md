@@ -53,6 +53,18 @@ I'm a Computer Science student with a strong interest in **machine learning**, *
 
 ---
 
+---
+
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/jiwi_lee19/">
+    <img src="https://leetcard.jacoblin.cool/jiwi_lee19?theme=light&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
