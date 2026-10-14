@@ -32,7 +32,6 @@ I'm a CS student interested in software engineering, machine learning, and data 
       <p><code>Python</code> <code>Kafka</code> <code>PostgreSQL</code> <code>Next.js</code> <code>TypeScript</code> <code>Docker</code></p>
       <p><a href="https://mlb-platform-mauve.vercel.app">Live demo</a> · <a href="https://github.com/JiwiKiwi19/mlb-platform">Code</a></p>
     </td>
-    ```html
 <td width="50%" valign="top">
   <h3>
     <a href="https://github.com/JiwiKiwi19/RockSim">ROCsim</a>
@@ -59,7 +58,6 @@ I'm a CS student interested in software engineering, machine learning, and data 
     <a href="YOUR_ROCSIM2_WEBSITE_URL">ROCsim2 Website</a>
   </p>
 </td>
-```
   </tr>
   <tr>
     <td width="50%" valign="top">
