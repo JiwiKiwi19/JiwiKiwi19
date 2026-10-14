@@ -55,7 +55,7 @@ I'm a CS student interested in software engineering, machine learning, and data 
     ·
     <a href="https://github.com/JiwiKiwi19/RockSim">Original Code</a>
     ·
-    <a href="https://github.com/JiwiKiwi19/RockSim2">ROCsim2 Website</a>
+    <a href="https://rock-sim2.vercel.app/">ROCsim2 Website</a>
   </p>
 </td>
   </tr>
