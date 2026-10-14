@@ -36,14 +36,14 @@ I'm a CS student interested in software engineering, machine learning, and data 
   <h3>
     <a href="https://github.com/JiwiKiwi19/RockSim">ROCsim</a>
     ·
-    <a href="YOUR_ROCSIM2_WEBSITE_URL">ROCsim2 ↗</a>
+    <a href="https://github.com/JiwiKiwi19/RockSim2">ROCsim2 ↗</a>
   </h3>
   <p>
     An upgraded continuation of our original team-built physics engine.
     ROCsim simulates N-body gravity, collisions, and spring networks
     using GPU-accelerated HIP/ROCm compute kernels, Verlet and RK4
     integration, and real-time Qt/OpenGL visualization.
-    <a href="YOUR_ROCSIM2_WEBSITE_URL">Explore ROCsim2</a>
+    <a href="https://github.com/JiwiKiwi19/RockSim2">Explore ROCsim2</a>
     for the redesigned experience and further improvements.
   </p>
   <p>
@@ -55,7 +55,7 @@ I'm a CS student interested in software engineering, machine learning, and data 
     ·
     <a href="https://github.com/JiwiKiwi19/RockSim">Original Code</a>
     ·
-    <a href="YOUR_ROCSIM2_WEBSITE_URL">ROCsim2 Website</a>
+    <a href="https://github.com/JiwiKiwi19/RockSim2">ROCsim2 Website</a>
   </p>
 </td>
   </tr>
