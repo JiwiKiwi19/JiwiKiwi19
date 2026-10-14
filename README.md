@@ -32,12 +32,34 @@ I'm a CS student interested in software engineering, machine learning, and data 
       <p><code>Python</code> <code>Kafka</code> <code>PostgreSQL</code> <code>Next.js</code> <code>TypeScript</code> <code>Docker</code></p>
       <p><a href="https://mlb-platform-mauve.vercel.app">Live demo</a> · <a href="https://github.com/JiwiKiwi19/mlb-platform">Code</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JiwiKiwi19/RockSim">ROCsim</a></h3>
-      <p>A GPU-accelerated physics engine built as a team project. It simulates N-body gravity, collisions, and spring networks using HIP/ROCm compute kernels with Verlet and RK4 integration, and renders the results live in Qt and OpenGL.</p>
-      <p><code>C++17</code> <code>HIP/ROCm</code> <code>Qt</code> <code>OpenGL</code> <code>CMake</code></p>
-      <p><a href="https://drive.google.com/file/d/1ghEKCVz6n-8W7RZSUyi3ejOnZATOC9Rp/view">Demo video</a> · <a href="https://github.com/JiwiKiwi19/RockSim">Code</a></p>
-    </td>
+    ```html
+<td width="50%" valign="top">
+  <h3>
+    <a href="https://github.com/JiwiKiwi19/RockSim">ROCsim</a>
+    ·
+    <a href="YOUR_ROCSIM2_WEBSITE_URL">ROCsim2 ↗</a>
+  </h3>
+  <p>
+    An upgraded continuation of our original team-built physics engine.
+    ROCsim simulates N-body gravity, collisions, and spring networks
+    using GPU-accelerated HIP/ROCm compute kernels, Verlet and RK4
+    integration, and real-time Qt/OpenGL visualization.
+    <a href="YOUR_ROCSIM2_WEBSITE_URL">Explore ROCsim2</a>
+    for the redesigned experience and further improvements.
+  </p>
+  <p>
+    <code>C++17</code> <code>HIP/ROCm</code> <code>Qt</code>
+    <code>OpenGL</code> <code>CMake</code>
+  </p>
+  <p>
+    <a href="https://drive.google.com/file/d/1ghEKCVz6n-8W7RZSUyi3ejOnZATOC9Rp/view">Original Demo</a>
+    ·
+    <a href="https://github.com/JiwiKiwi19/RockSim">Original Code</a>
+    ·
+    <a href="YOUR_ROCSIM2_WEBSITE_URL">ROCsim2 Website</a>
+  </p>
+</td>
+```
   </tr>
   <tr>
     <td width="50%" valign="top">
